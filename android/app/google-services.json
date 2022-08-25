@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "752620153767",
+    "project_id": "food-app-bbf7f",
+    "storage_bucket": "food-app-bbf7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752620153767:android:d3a01f0b5fcb0db65de482",
+        "android_client_info": {
+          "package_name": "com.example.food_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752620153767-gsalgmigsd6bp16df77bctmf5igu6qs2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.food_delivery",
+            "certificate_hash": "a2fdb6833822a63f18bf14519043a926e21223ef"
+          }
+        },
+        {
+          "client_id": "752620153767-nlr5pr6epd3iun33uatmcdbm14u1qqqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5WcXCint9jz5uIPfcqpIZDSLbZiMjgwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752620153767-nlr5pr6epd3iun33uatmcdbm14u1qqqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
