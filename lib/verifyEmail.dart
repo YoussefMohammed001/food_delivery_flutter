@@ -72,7 +72,7 @@ if(!isEmailVerified){
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
           Text("A verification Email has been sent to your email"
-          , style: TextStyle(color: Colors.orange,fontWeight: FontWeight.bold,fontSize: 22),
+          , style: TextStyle(color: Colors.orange,fontWeight: FontWeight.bold,fontSize: 32),
           ),
           ElevatedButton(onPressed: () {
             FirebaseAuth.instance.signOut();
