@@ -71,7 +71,7 @@ if(!isEmailVerified){
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          Text("A verification Email has been sent to your email"
+          Text("A verification Email has been sent to you, Go and verify your email"
           , style: TextStyle(color: Colors.orange,fontWeight: FontWeight.bold,fontSize: 22),
           ),
           ElevatedButton(onPressed: () {
